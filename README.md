@@ -43,3 +43,11 @@ Collegamenti correlati:
 
 Vedi file **[LICENSE.md](./LICENSE.md)** per il testo completo della licenza e lo storico dei commit principali.
 
+**Affiliation**  
+Independent Researcher  
+TET Collective – Topology & Entanglement Theory  
+Rome, Italy  
+**ORCID**: [0009-0002-3533-3772](https://orcid.org/0009-0002-3533-3772)
+
+TET Collective is an independent research entity dedicated to advancing Topology & Entanglement Theory (TET), with a focus on unified frameworks that integrate quantum entanglement, topological invariants, and embodied cognition. Current efforts center on the TET–CVTL paradigm, which posits primordial topological defects (eternal trefoil knots) as foundational to emergent physical laws, quantum-biological coherence, and conscious processes. This includes extensions of Penrose–Hameroff Orch-OR theory via universal entropic feedback λ⟨Sµν⟩, predictive protocols for radical longevity, and prospective neuromorphic hardware implementations.
+
