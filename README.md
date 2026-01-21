@@ -51,3 +51,25 @@ Rome, Italy
 
 TET Collective is an independent research entity dedicated to advancing Topology & Entanglement Theory (TET), with a focus on unified frameworks that integrate quantum entanglement, topological invariants, and embodied cognition. Current efforts center on the TET–CVTL paradigm, which posits primordial topological defects (eternal trefoil knots) as foundational to emergent physical laws, quantum-biological coherence, and conscious processes. This includes extensions of Penrose–Hameroff Orch-OR theory via universal entropic feedback λ⟨Sµν⟩, predictive protocols for radical longevity, and prospective neuromorphic hardware implementations.
 
+
+## Come citare / Citation
+
+Questo lavoro è archiviato su Zenodo con DOI permanente:  
+https://doi.org/10.5281/zenodo.18328954
+
+**BibTeX entry** (usa questa per citare il manifesto V2.5.2):
+
+```bibtex
+@techreport{Soliman2026,
+  author       = {Soliman, Simon},
+  title        = {Manifesto della Coscienza Embodied Quantistica -- An Integrated Protocol for Radical Longevity V2.5.2},
+  year         = {2026},
+  month        = {gennaio},
+  doi          = {10.5281/zenodo.18328954},
+  url          = {https://doi.org/10.5281/zenodo.18328954},
+  institution  = {Independent Researcher, TET Collective -- Topology \& Entanglement Theory, Rome, Italy},
+  note         = {Preprint / Technical Report -- TET Collective framework. Available at: https://github.com/TETcollective/TET-Manifesto-Embodied-Quantistica-v2.5.2},
+  keywords     = {embodied quantum consciousness, Orch-OR, radical longevity, microtubule coherence, entropic feedback, quantum biology, TET Collective},
+  license      = {CC BY-NC-ND 4.0}
+}
+
