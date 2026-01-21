@@ -32,6 +32,9 @@ Collegamenti correlati:
 📄 **[Manifesto_della_Coscienza_Embodied_Quantistica_v2.5.2.pdf](./Manifesto_della_Coscienza_Embodied_Quantistica_v2.5.2.pdf)**  
 
 
+  ```markdown
+  [![DOI](https://doi.org/10.5281/zenodo.18328954)](https://doi.org/10.5281/zenodo.18328954)
+
 ## Licenza
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
