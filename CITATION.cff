@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Soliman
+    given-names: Simon
+    orcid: https://orcid.org/0009-0002-3533-3772
+title: Manifesto della Coscienza Embodied Quantistica – An Integrated Protocol for Radical Longevity V2.5.2
+version: 2.5.2
+doi: 10.5281/zenodo.18328954
+date-released: 2026-01
+url: https://github.com/TETcollective/TET-Manifesto-Embodied-Quantistica-v2.5.2
+preferred-citation:
+  type: techreport
+  authors:
+    - family-names: Soliman
+      given-names: Simon
+  title: "Manifesto della Coscienza Embodied Quantistica – An Integrated Protocol for Radical Longevity V2.5.2"
+  institution: Independent Researcher, TET Collective – Topology & Entanglement Theory
+  year: 2026
+  doi: 10.5281/zenodo.18328954
